@@ -1,7 +1,7 @@
 {
-"id": 99
+"id": 99,
 "name": "José Carlos",
 "points": 500,
 "segment": "BV",
-"status": active
+"status": true
 }
