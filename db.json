@@ -2,6 +2,8 @@
 "account":[{
 "id": 99,
 "name": "José Carlos",
+"email": "ritnotifmanager@gmail.com",
+"phoneNumber": 963009511
 "points": 500,
 "segment": "BV",
 "active": true}]
